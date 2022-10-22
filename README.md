@@ -2,7 +2,7 @@
 
 ![Teaser Image for the Paper][teaser]
 
-Code for the [paper][paper] "[Finding Memo: Extractive Memorization in Constrained Sequence Generation Tasks][website]" by [Vikas Raunak][Vikas] and [Arul Menezes][Arul].
+Code for the [Paper][paper] "[Finding Memo: Extractive Memorization in Constrained Sequence Generation Tasks][website]" by [Vikas Raunak][Vikas] and [Arul Menezes][Arul].
 
 This repo provides:
 
