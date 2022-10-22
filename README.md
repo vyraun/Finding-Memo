@@ -1,6 +1,6 @@
 # Finding Memo: Extractive Memorization in Constrained Sequence Generation Tasks
 
-Code for the paper "Finding Memo: Extractive Memorization in Constrained Sequence Generation Tasks" by [Vikas Raunak][Vikas] and [Arul Menezes][Arul].
+Code for the paper "[Finding Memo: Extractive Memorization in Constrained Sequence Generation Tasks][website]" by [Vikas Raunak][Vikas] and [Arul Menezes][Arul].
 
 This repo provides:
 
@@ -63,5 +63,6 @@ The recovery symbol is set in `scripts/augment.sh` as the `symbol` variable.
 
 Please leave issues for any questions about the paper or the code.
 
+[website]: https://vyraun.github.io/Finding-Memo/
 [Vikas]: http://vyraun.github.io/
 [Arul]: https://www.microsoft.com/en-us/research/people/arulm/
