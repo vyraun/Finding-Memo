@@ -53,7 +53,7 @@ CJKT flag could be set to true in `src/parse_memorized.py` for working with CJKT
 
 #### Change the Masked Language Model to Estimate Neighborhood Effect (Algorithm 2)
 
-Different Masked Language Models could be defined and imported from `src/get_substitutions.py`.
+Different Masked Language Models pipelines (BERT, Roberta, Multilingual BERT) are defined in `src/substitutions.py` and consumed in `src/get_substitutions.py`.
 
 #### Obtain the Data for Model Finetuning through the Memorization Mitigation (Algorithm 3)
 
