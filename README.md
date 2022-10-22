@@ -51,7 +51,7 @@ CJKT flag could be set to true in `src/compute_dist.py` for working with CJKT la
 
 #### Change the Masked Language Model to Estimate Neighborhood Effect (Algorithm 2)
 
-Different Masked Language Models could be defined and imported from `get_substitutions.py`.
+Different Masked Language Models could be defined and imported from `src/get_substitutions.py`.
 
 #### Obtain the Data for Model Finetuning through the Memorization Mitigation (Algorithm 3)
 
