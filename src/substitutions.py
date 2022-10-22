@@ -1,10 +1,5 @@
 from transformers import pipeline
 
-# NLTK for roberta only, I forgot what I was doing :(
-#import nltk
-#from nltk.corpus import stopwords
-#stop_words = stopwords.words('english')
-
 bert_unmasker = pipeline('fill-mask', model='bert-base-cased')
 roberta_unmasker = pipeline('fill-mask', model='roberta-large')
 mbert_unmasker = pipeline('fill-mask', model='bert-base-multilingual-cased')
