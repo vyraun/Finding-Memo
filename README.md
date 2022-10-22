@@ -74,3 +74,5 @@ Please leave issues for any questions about the paper or the code.
 [website]: https://vyraun.github.io/Finding-Memo/
 [Vikas]: http://vyraun.github.io/
 [Arul]: https://www.microsoft.com/en-us/research/people/arulm/
+
+The above code release README format is borrowed from https://github.com/Alrope123/rethinking-demonstrations.
