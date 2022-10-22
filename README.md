@@ -61,6 +61,10 @@ The finetuning data could be obtained by running `scripts/augment.sh`.
 
 The recovery symbol is set in `scripts/augment.sh` as the `symbol` variable.
 
+#### Transferable Memorization Attack Examples
+
+A couple of examples on Microsoft Bing Translator and Google Translator are presented at this [link][website].
+
 Please leave issues for any questions about the paper or the code.
 
 [website]: https://vyraun.github.io/Finding-Memo/
