@@ -30,7 +30,7 @@ unzip data.zip
 bash run_experiment.sh
 ```
 
-## Train and Run the experiment on your own Model
+## Train and Run the Experiments on your own Model
 
 The directory and file paths could be set as per your custom setup.
 
