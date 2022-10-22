@@ -49,7 +49,7 @@ This threshold could be set in `src/compute_dist.py`.
 
 #### Apply Memorization Extraction (Algorithm 1) on CJKT languages
 
-CJKT flag could be set to true in `src/compute_dist.py` for working with CJKT languages on the source side.
+CJKT flag could be set to true in `src/parse_memorized.py` for working with CJKT languages on the source side.
 
 #### Change the Masked Language Model to Estimate Neighborhood Effect (Algorithm 2)
 
