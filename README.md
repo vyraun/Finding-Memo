@@ -2,7 +2,7 @@
 
 ![Teaser Image for the Paper][teaser]
 
-Code for the paper "[Finding Memo: Extractive Memorization in Constrained Sequence Generation Tasks][website]" by [Vikas Raunak][Vikas] and [Arul Menezes][Arul].
+Code for the [paper][paper] "[Finding Memo: Extractive Memorization in Constrained Sequence Generation Tasks][website]" by [Vikas Raunak][Vikas] and [Arul Menezes][Arul].
 
 This repo provides:
 
@@ -69,6 +69,7 @@ A couple of examples on Microsoft Bing Translator and Google Translator are pres
 
 Please leave issues for any questions about the paper or the code.
 
+[paper]: https://www.dropbox.com/s/56qmro92j8ijwhg/finding_memo.pdf
 [teaser]: img/google_1.gif
 [website]: https://vyraun.github.io/Finding-Memo/
 [Vikas]: http://vyraun.github.io/
