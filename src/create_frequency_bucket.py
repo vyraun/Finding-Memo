@@ -36,7 +36,6 @@ for x, c in bucket:
     if index >= max_num:
         break
 
-# This makes no sense, what was I doing here?
 max_sample = min(len(values), max_num)
 sampled_values = random.sample(values, max_sample)
 for x in sampled_values:
