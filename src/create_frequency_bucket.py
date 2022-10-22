@@ -30,7 +30,7 @@ max_num=100000
 index=0
 values = []
 for x, c in bucket:
-    if c == threshold: # and len( x.split("\t")[0].split() ) >= 4: # why this 4?
+    if c == threshold:
         values.append(x)
         index += 1
     if index >= max_num:
