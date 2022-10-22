@@ -1,5 +1,5 @@
 @inproceedings{raunak-etal-finding-memo,
-    title = "Finding Memo 🐠: Extractive Memorization in Constrained Sequence Generation Tasks",
+    title = "Finding Memo: Extractive Memorization in Constrained Sequence Generation Tasks",
     author = "Raunak, Vikas  and
       Arul, Menezes",
     booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2022",
@@ -7,7 +7,4 @@
     year = "2022",
     address = "Online",
     publisher = "Association for Computational Linguistics",
-    url = "",
-    doi = "",
-    pages = "",
 }
