@@ -69,7 +69,7 @@ A couple of examples on Microsoft Bing Translator and Google Translator are pres
 
 Please leave issues for any questions about the paper or the code.
 
-[teaser]: 
+[teaser]: img/google_1.gif
 [website]: https://vyraun.github.io/Finding-Memo/
 [Vikas]: http://vyraun.github.io/
 [Arul]: https://www.microsoft.com/en-us/research/people/arulm/
