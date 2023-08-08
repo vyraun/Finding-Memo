@@ -16,8 +16,8 @@ for line in f:
     positions.append(tokens[3].strip())
     references.append(tokens[2].strip())
 
-# Now call substututions
-# Prefix Perturbation vs Suffix Perturbation
+# Now call substitutions
+# Prefix Perturbation vs Suffix Perturbation Numbers
 for s, p, r in zip(sources, positions, references):
 
     n = len( s.split() )
